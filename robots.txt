@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.beowpi.cn/sitemap.xml
